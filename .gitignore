@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+*.pyo
+.env
+*.npz
+output/
+.model_cache/*
+!.model_cache/d2cf1e1211f1ac46b5419b2bd614ad6d.pkl
+
+contoh_korpus_backup_*.csv
+contoh_korpus_broken_backup_*.csv
+detect_lang.py
+detect_lang_out.txt
+translate_corpus.py
+translate_progress.txt
+.claude/
