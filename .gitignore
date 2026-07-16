@@ -4,8 +4,7 @@ __pycache__/
 .env
 *.npz
 output/
-.model_cache/*
-!.model_cache/d2cf1e1211f1ac46b5419b2bd614ad6d.pkl
+.model_cache/
 
 contoh_korpus_backup_*.csv
 contoh_korpus_broken_backup_*.csv
